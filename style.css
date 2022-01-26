@@ -21,7 +21,7 @@ p {
 }
 img {
     border-radius: 7px;
-    max-width: 
+    max-width: 100%;
 }
 .bg {
     background-image: url("/images/opt/home-bg.jpeg");
